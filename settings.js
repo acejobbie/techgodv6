@@ -11,38 +11,38 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "916378704507"
-global.ownername = "AASHISH"
-global.ytname = "YT: SHADOW STARCORE"
-global.socialm = "GitHub: dark-tech-zone"
-global.location = "India, Delhi, city"
+global.ownernomer = "254726856795"
+global.ownername = "🏴‍☠️⃝🅐ϲԑ 𝚔𝖎𝐫қ𖤍🔥"
+global.ytname = "YT: acejobbie98"
+global.socialm = "GitHub: acejobbie"
+global.location = "Kenya, Nakuru, Naks"
 
-global.ownernumber = '916378704507'  //creator number
-global.ownername = 'AASHISH' //owner name
-global.botname = 'AASHISH ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.ownernumber = '254726856795'  //creator number
+global.ownername = '🏴‍☠️⃝🅐ϲԑ 𝚔𝖎𝐫қ𖤍🔥' //owner name
+global.botname = '𒋨🏴‍☠️⃝𝘼𝘾𝙀☠️𝘽𝙊𝙏⃝𒋨🉑' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By'
-global.author = 'AASHISH\n\nContact: +919310763037'
+global.packname = 'ɪ αɱ 𝙰ϲе™⟬𝟭⟭'
+global.author = '🏴‍☠️⃝🅐ϲԑ 𝚔𝖎𝐫қ𖤍🔥\n\nContact: +254726856795'
 
 //console view/theme
-global.themeemoji = '🪀'
-global.wm = "Tech God Bot Inc."
+global.themeemoji = '🉑'
+global.wm = "𒋨🏴‍☠️⃝𝘼𝘾𝙀☠️𝐂𝐋͢𝐢𝚵𝐍͢𝙏⃝𒋨🉑."
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029Va9Ufzi8kyyEnEHvOm1h'
 
 //custom prefix
-global.prefa = ['.']
+global.prefa = ['#']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
-global.autorecordtype = true //auto typing + recording
+global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
-global.anti92 = false //auto block +92 
-global.autoswview = false //auto view status/story
+global.anti92 = true //auto block +92 
+global.autoswview = true //auto view status/story
 
 //menu type 
 //v1 is image menu, 
